@@ -1,3 +1,6 @@
+Name = Dalilo Yogi Essy Pratama
+NIM  = 5311422078
+
 In a recent artificial neural network (ANN) exercise, I started by loading data from a CSV file using pandas. Then I pre-process the data  by removing unnecessary columns like customer name, email address, country, and gender. I also checked and handled missing values, if any.
 
 Next, I explored the data by creating a scatter plot to examine the relationship between annual salary and credit card debt. Additionally, I used seaborn to create a pair chart, which provides a comprehensive overview of the distribution and correlation between variables. Then I split the data into features (X) and target variables (y) to train the model.
